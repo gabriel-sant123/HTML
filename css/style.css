@@ -1,3 +1,4 @@
+/* Determinando as características do escop do corpo*/
 body{
     font-family: Helvetica;
     text-align: center ;
@@ -6,12 +7,14 @@ body{
     padding: 0;
     margin: 0;
 }
+
+/* Determinando estilo do bloco nav, */
 nav{
     display: flex;
     justify-content: space-between;
     padding: 20px;
     align-items: center;
-    border-bottom: 1px solid #666;
+    border-bottom: 1px solid #676;
 }
 
 nav ul{
